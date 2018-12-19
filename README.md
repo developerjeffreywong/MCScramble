@@ -11,3 +11,6 @@ You can specify the number of different versions you want of the latex file. The
    * example: perl MCScramble.pl FinalExam.tex 4
      * will produce 4 versions the Final Exam with the choices in the multiple choice questions scrambled
 3. scrambled versions will appear as ver_1.tex ver_2.tex ... in the same directory
+
+### More Information
+[https://jeffreywong.ca/programs/mcscramble/](https://jeffreywong.ca/programs/mcscramble/)
